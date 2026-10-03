@@ -24,4 +24,8 @@ and it gathers the week's work from your **git commits**, **time tracking** (Tog
 
 Python standard library only; `git` for commit history.
 
+## Privacy
+
+Runs locally, makes no network calls, and writes only to your folder. See the [Privacy Policy](PRIVACY.md).
+
 MIT licensed.

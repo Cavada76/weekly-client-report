@@ -4,5 +4,8 @@
   "description": "Weekly client report: turn a week of git commits, Toggl/Clockify/Harvest time entries and notes into a short client-ready status update and email.",
   "author": { "name": "Daniel" },
   "license": "MIT",
+  "homepage": "https://github.com/Cavada76/weekly-client-report",
+  "repository": "https://github.com/Cavada76/weekly-client-report",
+  "privacyPolicyUrl": "https://github.com/Cavada76/weekly-client-report/blob/main/PRIVACY.md",
   "keywords": ["weekly report", "client report", "status update", "progress report", "freelance", "agency", "toggl", "clockify"]
 }
