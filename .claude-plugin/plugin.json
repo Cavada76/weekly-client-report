@@ -1,0 +1,8 @@
+{
+  "name": "weekly-client-report",
+  "version": "1.0.0",
+  "description": "Weekly client report: turn a week of git commits, Toggl/Clockify/Harvest time entries and notes into a short client-ready status update and email.",
+  "author": { "name": "Daniel" },
+  "license": "MIT",
+  "keywords": ["weekly report", "client report", "status update", "progress report", "freelance", "agency", "toggl", "clockify"]
+}

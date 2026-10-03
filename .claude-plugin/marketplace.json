@@ -1,0 +1,15 @@
+{
+  "name": "weekly-client-report",
+  "owner": { "name": "Daniel" },
+  "metadata": { "description": "Weekly client report from git commits, time tracking and notes - ready to send.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "weekly-client-report",
+      "source": "./",
+      "description": "Weekly client report from git commits, time tracking and notes - ready to send.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["weekly report", "client report", "status update"]
+    }
+  ]
+}
